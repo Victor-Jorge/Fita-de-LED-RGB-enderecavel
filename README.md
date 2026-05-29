@@ -1,5 +1,5 @@
 # Projeto Fita de LED NeoPixel com Arduino
-
+![esquematico do circuito](https://github.com/Victor-Jorge/Fita-de-LED-RGB-enderecavel/blob/main/Imagens%20pro%20Readme/Esquematico%20fita%20de%20led.png)
 ## Visão Geral
 
 Este projeto demonstra como controlar uma fita de LED endereçável (NeoPixel) usando um microcontrolador Arduino e a biblioteca Adafruit NeoPixel. O código fornecido inicializa a fita de LED e acende todos os LEDs em branco.
